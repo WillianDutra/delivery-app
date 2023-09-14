@@ -43,7 +43,7 @@ Este projeto é uma aplicação web completa para um serviço de delivery online
 
 Certifique-se de que não há processos rodando nas portas 3306, 3001 e 3000 antes de prosseguir.
 
-1. Clone este repositório: `git clone https://github.com/-->github<--/delivery-app`
+1. Clone este repositório: `git clone https://github.com/WillianDutra/delivery-app`
 2. Navegue até a pasta raiz do projeto: `cd delivery-app`
 3. Inicie os containers Docker: `docker-compose up`
 4. Navegue até a pasta "backend": `cd backend`
